@@ -28,3 +28,8 @@ jupyter_ai_magics
 
 # chatGPT
 openai
+
+
+
+
+1111111
